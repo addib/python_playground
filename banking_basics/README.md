@@ -1,4 +1,4 @@
-#banking_basics
+# banking_basics
 
 Let's create a project to simulate a banking system.
 
