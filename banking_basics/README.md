@@ -1,3 +1,5 @@
+#banking_basics
+
 Let's create a project to simulate a banking system.
 
 1. You first need to provide a prompt to the user asking if they wish to create a new savings account or access an existing one.
